@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-//
+// //
 class CategoryModel{
   String name;
   String iconPath;

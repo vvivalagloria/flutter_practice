@@ -5,7 +5,7 @@ class DietModel {
   String duration;
   String calorie;
   bool viewIsSelected;
-//
+// //
   DietModel({
     required this.name,
     required this.iconPath,

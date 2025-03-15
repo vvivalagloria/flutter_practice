@@ -2,7 +2,7 @@ import 'package:demo1/models/category_model.dart';
 import 'package:demo1/models/diet_model.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-//
+// //
 class HomePage extends StatefulWidget {
   HomePage({super.key});
 
